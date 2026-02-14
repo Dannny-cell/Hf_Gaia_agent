@@ -1,0 +1,8 @@
+
+smolagents
+duckduckgo-search
+datasets
+transformers
+accelerate
+bitsandbytes
+torch
